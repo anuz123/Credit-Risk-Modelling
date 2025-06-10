@@ -2,7 +2,7 @@
 
 ### Define Objectives & Questions
 
-- Clarify the business or research goals.
+https://github.com/levist7/Credit_Risk_Modelling/tree/main?tab=readme-ov-file#technologies
 
 - Formulate specific questions you want to answer (e.g., “Which factors drive customer churn?”).
 
